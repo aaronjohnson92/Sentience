@@ -1,2 +1,2 @@
 # Sentience
-Deep learning chat bot
+Deep learning chat bot.
