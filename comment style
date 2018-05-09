@@ -1,0 +1,188 @@
+ '''
+        def on_mouse_pos(self, instance, pos):
+            This function is called everytime that the user moves
+            the mouse. It checks to see if the mouse is colliding 
+            (hitting) any of the widgets on the menu bar. In this
+            case, I focus on the buttons. If the mouse touches 
+            any of the buttons a tooltip is created and displayed 
+            where the mouse was located; explaining what that
+            particular button does.
+            
+    
+        Parameters:
+        -----------
+            param 1: self
+                Denotes this as being a member of SentienceScreen()
+            
+            param 2: instance
+                Returns the current "instance" of the mouse. Similar 
+                to coordinates in that it refers to "This current 
+                position". If the mouse moves again its instance has
+                changed.
+            
+            param 3: pos 
+                The current coordinates of the mouse as it relates
+                to the window.
+            
+        
+        Attributes
+        ----------
+            colliding_computer = self.ids.select_os.collide_point(*pos)
+                colliding_computer stores the collision point (the 
+                coordinates of the "Select OS" button). 
+                
+            colliding_record = self.ids.record_user.collide_point(*pos)
+                 colliding_record stores the collision point (the 
+                 coordinates of the "Record user" button).
+                
+            colliding_voice = self.ids.voice_enable_disable.collide_point(*pos)
+                 colliding_voice stores the collision point (the 
+                 coordinates of the "Enable/disable voice" button).    
+                
+            colliding_audio = self.ids.audio_enable_disable.collide_point(*pos)
+                 colliding_audio stores the collision point (the 
+                 coordinates of the "Enable/Disable audio" button).
+                
+            colliding_eraser = self.ids.erase_text_button.collide_point(*pos)
+                 colliding_eraser stores the collision point (the 
+                 coordinates of the "Erase text" button).
+            
+            colliding_pencil = self.ids.write_file_button.collide_point(*pos)
+                 colliding_computer stores the collision point (the 
+                 coordinates of the "Write Logs" button).
+            
+            colliding_printer = self.ids.print_logs.collide_point(*pos)
+                 colliding_computer stores the collision point (the 
+                 coordinates of the "Print logs" button).
+            
+            self.ids.select_os
+                This is a reference to the select_os Button widget.
+                
+            self.ids.record_user
+                This is a reference to the record_user Button widget.
+            
+            self.ids.voice_enable_disable
+                This is a reference to the voice_enable_disable 
+                Button widget.
+            
+            self.ids.audio_enable_disable
+                This is a reference to the audio_enable_disable 
+                Button widget.
+                
+            self.ids.erase_text_button
+                This is a reference to the erase_text_button 
+                Button widget.
+            
+            self.ids.write_file_button
+                This is a reference to the write_file_button 
+                Button widget.
+            
+            self.ids.print_logs
+                This is a reference to the print_logs Button widget.
+            
+            self.tooltip_open
+                This is a member of SentienceScreen(). This is how 
+                we determine if a tooltip is currently open. If this
+                is open we then know we need to close it and set it 
+                to self.tooltip_open = False
+            
+            self.tooltip.pos
+                This is a member of the ToolTipLabel widget. We simply
+                set (or reset by setting it) the current position of this
+                widget to the position of the instance of the pointer
+                which collided with this calling function. I.e,. 
+                If the mouse collides wit the select_os button
+                then we use that exact collision point to set
+                the position of this widget and then add the tooltip
+                at that position.
+                
+            
+        Members
+        -------
+            self.ids.select_os.collide_point(*pos)
+                Is called when the current instance and position of the
+                mouse collide (touch/hit) the select_os button widget.
+            
+            self.ids.record_user.collide_point(*pos)
+                 Is called when the current instance and position of the
+                 mouse collide (touch/hit) the record_user button widget.
+                
+            self.ids.voice_enable_disable.collide_point(*pos)
+                 Is called when the current instance and position of the
+                 mouse collide (touch/hit) the voice_enable_disable 
+                 button widget.
+            
+            self.ids.audio_enable_disable.collide_point(*pos)
+                 Is called when the current instance and position of the
+                 mouse collide (touch/hit) the audio_enable_disable 
+                 button widget.
+                
+            self.ids.erase_text_button.collide_point(*pos)
+                 Is called when the current instance and position of the
+                 mouse collide (touch/hit) the erase_text_button button 
+                 widget.
+                
+            self.ids.write_file_button.collide_point(*pos)
+                 Is called when the current instance and position of the
+                 mouse collide (touch/hit) the write_file_button button 
+                 widget.
+                
+            self.ids.print_logs.collide_point(*pos)
+                 Is called when the current instance and position of the
+                 mouse collide (touch/hit) the print_logs button widget.
+                 
+            self.get_root_window()
+                This function applies to the root window. It's called
+                as a check when the users access the tooltips. The 
+                check preformed ensures that if the users moves the 
+                mouse out of the programs window the tooltip widget 
+                is destroyed.
+                
+            self.set_tooltip_text(text)
+                We call this function to set the tooltip text.
+                We do this each time a tooltip is created but we only
+                change the text based on the widget that the mouse 
+                collided with. We don't want the user to see "Select Os"
+                when they collide with the print_logs button
+                when they should see "Print file".
+                
+            self.display_tooltip(*args)
+                We finally call this function actually
+                add a new label widget, which is our tooltip,
+                to the screen.
+        
+        Private Members
+        ---------------
+            None
+ 
+        Returns
+        -------
+            return None
+	
+        Exceptions
+        ----------
+           None
+        
+        Notes
+        -----
+            this function is called whenever the user moves his or her
+            mouse. It only ever "does something" when the mouse collides
+            with a widget listed in the conditional statements. In this 
+            case, when the users mouse touches (collides) with one of 
+            the buttons on the menu bar. When that happens the if 
+            statements are checked and we determine which widget 
+            the mouse has collided with. 
+            
+            Once we've determined what widget the users mouse has 
+            collided with. We then set self.tooltip_open = True
+            We set the position of the ToolTipLabel to the 
+            position of the users mouse when that mouse collided
+            with that specific widget. 
+            
+            We then specify what text we want the tooltip to 
+            display as it relates to that specific widget. 
+            
+            Finally we call the function to create and add that
+            widget to the screen.
+            
+        ''' 

@@ -1,0 +1,565 @@
+Searching for include files...
+Searching for example files...
+Searching for images...
+Searching for files in directory E:/Git Projects/Python/Honors_Project_Sentience
+Searching for dot files...
+Searching for msc files...
+Searching for dia files...
+Searching for files to exclude
+Searching INPUT for files to process...
+Searching for files in directory E:/Git Projects/Python/Honors_Project_Sentience
+Reading and parsing tag files
+Parsing files
+Reading E:/Git Projects/Python/Honors_Project_Sentience/Sentience.py...
+Parsing file E:/Git Projects/Python/Honors_Project_Sentience/Sentience.py...
+Reading E:/Git Projects/Python/Honors_Project_Sentience/SettingsMenu.py...
+Parsing file E:/Git Projects/Python/Honors_Project_Sentience/SettingsMenu.py...
+Building group list...
+Building directory list...
+Building namespace list...
+Building file list...
+Building class list...
+Associating documentation with classes...
+Computing nesting relations for classes...
+Building example list...
+Searching for enumerations...
+Searching for documented typedefs...
+Searching for members imported via using declarations...
+Searching for included using directives...
+Searching for documented variables...
+Building interface member list...
+Building member list...
+Searching for friends...
+Searching for documented defines...
+Computing class inheritance relations...
+Computing class usage relations...
+Flushing cached template relations that have become invalid...
+Computing class relations...
+Add enum values to enums...
+Searching for member function documentation...
+Creating members for template instances...
+Building page list...
+Search for main page...
+Computing page relations...
+Determining the scope of groups...
+Sorting lists...
+Freeing entry tree
+Determining which enums are documented
+Computing member relations...
+Building full member lists recursively...
+Adding members to member groups.
+Computing member references...
+Inheriting documentation...
+Generating disk names...
+Adding source references...
+Adding xrefitems...
+Sorting member lists...
+Computing dependencies between directories...
+Generating citations page...
+Counting data structures...
+Resolving user defined references...
+Finding anchors and sections in the documentation...
+Transferring function references...
+Combining using relations...
+Adding members to index pages...
+Generating style sheet...
+Generating search indices...
+Generating example documentation...
+Generating file sources...
+Generating code for file Sentience.py...
+Generating code for file SettingsMenu.py...
+Generating file documentation...
+Generating docs for file Sentience.py...
+Generating docs for file SettingsMenu.py...
+Generating page documentation...
+Generating group documentation...
+Generating class documentation...
+Generating namespace index...
+Generating docs for namespace Sentience
+Generating docs for compound Sentience::ActionInput...
+Generating docs for compound Sentience::DeleteDialog...
+Generating docs for compound Sentience::PrintDialog...
+Generating docs for compound Sentience::SentienceApp...
+Generating call graph for function Sentience.SentienceApp.load_settings
+Generating call graph for function Sentience.SentienceApp.on_config_change
+Generating caller graph for function Sentience.SentienceApp.set_age
+Generating caller graph for function Sentience.SentienceApp.set_gender
+Generating caller graph for function Sentience.SentienceApp.set_username
+Generating call graph for function Sentience.SentienceApp.load_settings
+Generating call graph for function Sentience.SentienceApp.on_config_change
+Generating caller graph for function Sentience.SentienceApp.set_age
+Generating caller graph for function Sentience.SentienceApp.set_gender
+Generating caller graph for function Sentience.SentienceApp.set_username
+Generating docs for compound Sentience::SentienceScreen...
+Generating call graph for function Sentience.SentienceScreen.__init__
+Generating call graph for function Sentience.SentienceScreen.__append_file
+Generating caller graph for function Sentience.SentienceScreen.__append_file
+Generating call graph for function Sentience.SentienceScreen.__create_files
+Generating caller graph for function Sentience.SentienceScreen.__create_files
+Generating call graph for function Sentience.SentienceScreen.__currently_thinking
+Generating caller graph for function Sentience.SentienceScreen.__currently_thinking
+Generating caller graph for function Sentience.SentienceScreen.__set_thinking_text
+Generating call graph for function Sentience.SentienceScreen.caprica_speak
+Generating caller graph for function Sentience.SentienceScreen.caprica_speak
+Generating call graph for function Sentience.SentienceScreen.caprica_timer
+Generating caller graph for function Sentience.SentienceScreen.caprica_timer
+Generating caller graph for function Sentience.SentienceScreen.check_timer
+Generating caller graph for function Sentience.SentienceScreen.close_tooltip
+Generating call graph for function Sentience.SentienceScreen.create_dir
+Generating caller graph for function Sentience.SentienceScreen.create_dir
+Generating call graph for function Sentience.SentienceScreen.create_user_profile
+Generating call graph for function Sentience.SentienceScreen.delete_all
+Generating call graph for function Sentience.SentienceScreen.delete_file
+Generating caller graph for function Sentience.SentienceScreen.delete_file
+Generating caller graph for function Sentience.SentienceScreen.dismiss_popup
+Generating call graph for function Sentience.SentienceScreen.display_tooltip
+Generating caller graph for function Sentience.SentienceScreen.display_tooltip
+Generating call graph for function Sentience.SentienceScreen.get_caprica_response
+Generating caller graph for function Sentience.SentienceScreen.get_caprica_response
+Generating call graph for function Sentience.SentienceScreen.get_caprica_text_response
+Generating caller graph for function Sentience.SentienceScreen.get_caprica_text_response
+Generating call graph for function Sentience.SentienceScreen.get_caprica_voice_response
+Generating caller graph for function Sentience.SentienceScreen.get_caprica_voice_response
+Generating call graph for function Sentience.SentienceScreen.get_caprica_voice_thread
+Generating caller graph for function Sentience.SentienceScreen.get_caprica_voice_thread
+Generating caller graph for function Sentience.SentienceScreen.get_user_text
+Generating call graph for function Sentience.SentienceScreen.get_user_text_response
+Generating call graph for function Sentience.SentienceScreen.get_user_voice_response
+Generating caller graph for function Sentience.SentienceScreen.get_user_voice_response
+Generating call graph for function Sentience.SentienceScreen.on_mouse_pos
+Generating caller graph for function Sentience.SentienceScreen.on_mouse_pos
+Generating call graph for function Sentience.SentienceScreen.onEnd
+Generating call graph for function Sentience.SentienceScreen.open_delete_file_dialog
+Generating call graph for function Sentience.SentienceScreen.open_print_file_dialog
+Generating call graph for function Sentience.SentienceScreen.print_files
+Generating caller graph for function Sentience.SentienceScreen.print_files
+Generating call graph for function Sentience.SentienceScreen.set_enable_disable_audio
+Generating call graph for function Sentience.SentienceScreen.set_enable_disable_voice
+Generating call graph for function Sentience.SentienceScreen.set_gender
+Generating caller graph for function Sentience.SentienceScreen.set_gender
+Generating call graph for function Sentience.SentienceScreen.set_speech_rate
+Generating caller graph for function Sentience.SentienceScreen.set_tooltip_text
+Generating call graph for function Sentience.SentienceScreen.start_get_response_thread
+Generating call graph for function Sentience.SentienceScreen.start_timer_thread
+Generating call graph for function Sentience.SentienceScreen.start_voice_response_thread
+Generating call graph for function Sentience.SentienceScreen.write_logs
+Generating call graph for function Sentience.SentienceScreen.__init__
+Generating call graph for function Sentience.SentienceScreen.__append_file
+Generating caller graph for function Sentience.SentienceScreen.__append_file
+Generating call graph for function Sentience.SentienceScreen.__create_files
+Generating caller graph for function Sentience.SentienceScreen.__create_files
+Generating call graph for function Sentience.SentienceScreen.__currently_thinking
+Generating caller graph for function Sentience.SentienceScreen.__currently_thinking
+Generating caller graph for function Sentience.SentienceScreen.__set_thinking_text
+Generating call graph for function Sentience.SentienceScreen.caprica_speak
+Generating caller graph for function Sentience.SentienceScreen.caprica_speak
+Generating call graph for function Sentience.SentienceScreen.caprica_timer
+Generating caller graph for function Sentience.SentienceScreen.caprica_timer
+Generating caller graph for function Sentience.SentienceScreen.check_timer
+Generating caller graph for function Sentience.SentienceScreen.close_tooltip
+Generating call graph for function Sentience.SentienceScreen.create_dir
+Generating caller graph for function Sentience.SentienceScreen.create_dir
+Generating call graph for function Sentience.SentienceScreen.create_user_profile
+Generating call graph for function Sentience.SentienceScreen.delete_all
+Generating call graph for function Sentience.SentienceScreen.delete_file
+Generating caller graph for function Sentience.SentienceScreen.delete_file
+Generating caller graph for function Sentience.SentienceScreen.dismiss_popup
+Generating call graph for function Sentience.SentienceScreen.display_tooltip
+Generating caller graph for function Sentience.SentienceScreen.display_tooltip
+Generating call graph for function Sentience.SentienceScreen.get_caprica_response
+Generating caller graph for function Sentience.SentienceScreen.get_caprica_response
+Generating call graph for function Sentience.SentienceScreen.get_caprica_text_response
+Generating caller graph for function Sentience.SentienceScreen.get_caprica_text_response
+Generating call graph for function Sentience.SentienceScreen.get_caprica_voice_response
+Generating caller graph for function Sentience.SentienceScreen.get_caprica_voice_response
+Generating call graph for function Sentience.SentienceScreen.get_caprica_voice_thread
+Generating caller graph for function Sentience.SentienceScreen.get_caprica_voice_thread
+Generating caller graph for function Sentience.SentienceScreen.get_user_text
+Generating call graph for function Sentience.SentienceScreen.get_user_text_response
+Generating call graph for function Sentience.SentienceScreen.get_user_voice_response
+Generating caller graph for function Sentience.SentienceScreen.get_user_voice_response
+Generating call graph for function Sentience.SentienceScreen.on_mouse_pos
+Generating caller graph for function Sentience.SentienceScreen.on_mouse_pos
+Generating call graph for function Sentience.SentienceScreen.onEnd
+Generating call graph for function Sentience.SentienceScreen.open_delete_file_dialog
+Generating call graph for function Sentience.SentienceScreen.open_print_file_dialog
+Generating call graph for function Sentience.SentienceScreen.print_files
+Generating caller graph for function Sentience.SentienceScreen.print_files
+Generating call graph for function Sentience.SentienceScreen.set_enable_disable_audio
+Generating call graph for function Sentience.SentienceScreen.set_enable_disable_voice
+Generating call graph for function Sentience.SentienceScreen.set_gender
+Generating caller graph for function Sentience.SentienceScreen.set_gender
+Generating call graph for function Sentience.SentienceScreen.set_speech_rate
+Generating caller graph for function Sentience.SentienceScreen.set_tooltip_text
+Generating call graph for function Sentience.SentienceScreen.start_get_response_thread
+Generating call graph for function Sentience.SentienceScreen.start_timer_thread
+Generating call graph for function Sentience.SentienceScreen.start_voice_response_thread
+Generating call graph for function Sentience.SentienceScreen.write_logs
+Generating docs for compound Sentience::sentienceScreenManager...
+Generating docs for namespace SettingsMenu
+Generating graph info page...
+Generating directory documentation...
+Generating index page...
+Generating page index...
+Generating module index...
+Generating namespace index...
+Generating namespace member index...
+Generating annotated compound index...
+Generating alphabetical compound index...
+Generating hierarchical class index...
+Generating graphical class hierarchy...
+Generating member index...
+Generating file index...
+Generating file member index...
+Generating example index...
+finalizing index lists...
+writing tag file...
+Generating Docbook output...
+Generating Docbook output for namespace Sentience
+Generating Docbook output for namespace SettingsMenu
+Generating Docbook output for class Sentience::ActionInput
+Generating Docbook output for class Sentience::DeleteDialog
+Generating Docbook output for class Sentience::PrintDialog
+Generating Docbook output for class Sentience::SentienceApp
+Generating Docbook output for class Sentience::SentienceScreen
+Generating Docbook output for class Sentience::sentienceScreenManager
+Generating Docbook output for file Sentience.py
+Generating Docbook output for file SettingsMenu.py
+Generating AutoGen DEF output...
+Generating search index
+Running dot...
+Generating dot graphs using 5 parallel threads...
+Running dot for graph 1/160
+Running dot for graph 2/160
+Running dot for graph 3/160
+Running dot for graph 4/160
+Running dot for graph 5/160
+Running dot for graph 6/160
+Running dot for graph 7/160
+Running dot for graph 8/160
+Running dot for graph 9/160
+Running dot for graph 10/160
+Running dot for graph 11/160
+Running dot for graph 12/160
+Running dot for graph 13/160
+Running dot for graph 14/160
+warning: Missing end quote (") on line 930, file -
+warning: source E:\Git Projects\Python\Honors_Project_Sentience\Images" is not a readable file or directory... skipping.
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d7/d25/class_sentience_1_1_delete_dialog__inherit__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d7/d25/class_sentience_1_1_delete_dialog__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/db/d19/class_sentience_1_1_action_input__inherit__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/db/d19/class_sentience_1_1_action_input__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/db/d19/class_sentience_1_1_action_input__inherit__graph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/db/d19/class_sentience_1_1_action_input__inherit__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/dd/d62/class_sentience_1_1_action_input__coll__graph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/dd/d62/class_sentience_1_1_action_input__coll__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/dd/d62/class_sentience_1_1_action_input__coll__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/dd/d62/class_sentience_1_1_action_input__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d7/d25/class_sentience_1_1_delete_dialog__inherit__graph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d7/d25/class_sentience_1_1_delete_dialog__inherit__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d3/ddc/class_sentience_1_1_delete_dialog__coll__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d3/ddc/class_sentience_1_1_delete_dialog__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d3/ddc/class_sentience_1_1_delete_dialog__coll__graph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d3/ddc/class_sentience_1_1_delete_dialog__coll__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/dc/d7b/class_sentience_1_1_print_dialog__inherit__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/dc/d7b/class_sentience_1_1_print_dialog__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/dc/d7b/class_sentience_1_1_print_dialog__inherit__graph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/dc/d7b/class_sentience_1_1_print_dialog__inherit__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d4/dc3/class_sentience_1_1_print_dialog__coll__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d4/dc3/class_sentience_1_1_print_dialog__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d4/dc3/class_sentience_1_1_print_dialog__coll__graph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d4/dc3/class_sentience_1_1_print_dialog__coll__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/d06/class_sentience_1_1_sentience_app__inherit__graph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/d06/class_sentience_1_1_sentience_app__inherit__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/d06/class_sentience_1_1_sentience_app__inherit__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/d06/class_sentience_1_1_sentience_app__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d6/d8e/class_sentience_1_1_sentience_app__coll__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d6/d8e/class_sentience_1_1_sentience_app__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d6/d8e/class_sentience_1_1_sentience_app__coll__graph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d6/d8e/class_sentience_1_1_sentience_app__coll__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d7/dcc/class_sentience_1_1_sentience_app_af8f47de7809522728ccf72cd114b075e_af8f47de7809522728ccf72cd114b075e_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d7/dcc/class_sentience_1_1_sentience_app_af8f47de7809522728ccf72cd114b075e_af8f47de7809522728ccf72cd114b075e_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d7/dcc/class_sentience_1_1_sentience_app_af1ce919294801a5451ff4667048438f4_af1ce919294801a5451ff4667048438f4_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d7/dcc/class_sentience_1_1_sentience_app_af1ce919294801a5451ff4667048438f4_af1ce919294801a5451ff4667048438f4_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d7/dcc/class_sentience_1_1_sentience_app_adc4cc8c363940b1d93fd29fd667c71ae_adc4cc8c363940b1d93fd29fd667c71ae_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d7/dcc/class_sentience_1_1_sentience_app_adc4cc8c363940b1d93fd29fd667c71ae_adc4cc8c363940b1d93fd29fd667c71ae_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d7/dcc/class_sentience_1_1_sentience_app_a5d41c15063d38b851c6e34cb6f4b704a_a5d41c15063d38b851c6e34cb6f4b704a_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d7/dcc/class_sentience_1_1_sentience_app_a5d41c15063d38b851c6e34cb6f4b704a_a5d41c15063d38b851c6e34cb6f4b704a_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d7/dcc/class_sentience_1_1_sentience_app_af1ce919294801a5451ff4667048438f4_af1ce919294801a5451ff4667048438f4_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d7/dcc/class_sentience_1_1_sentience_app_af1ce919294801a5451ff4667048438f4_af1ce919294801a5451ff4667048438f4_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d7/dcc/class_sentience_1_1_sentience_app_adc4cc8c363940b1d93fd29fd667c71ae_adc4cc8c363940b1d93fd29fd667c71ae_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d7/dcc/clasRunning dot for graph 15/160
+Running dot for graph 16/160
+Running dot for graph 17/160
+Running dot for graph 18/160
+Running dot for graph 19/160
+Running dot for graph 20/160
+Running dot for graph 21/160
+Running dot for graph 22/160
+Running dot for graph 23/160
+Running dot for graph 24/160
+Running dot for graph 25/160
+Running dot for graph 26/160
+Running dot for graph 27/160
+s_sentience_1_1_sentience_app_adc4cc8c363940b1d93fd29fd667c71ae_adc4cc8c363940b1d93fd29fd667c71ae_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d7/dcc/class_sentience_1_1_sentience_app_af8f47de7809522728ccf72cd114b075e_af8f47de7809522728ccf72cd114b075e_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d7/dcc/class_sentience_1_1_sentience_app_af8f47de7809522728ccf72cd114b075e_af8f47de7809522728ccf72cd114b075e_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d7/dcc/class_sentience_1_1_sentience_app_aea483e995c333e8d7f33fe3863536e2f_aea483e995c333e8d7f33fe3863536e2f_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d7/dcc/class_sentience_1_1_sentience_app_aea483e995c333e8d7f33fe3863536e2f_aea483e995c333e8d7f33fe3863536e2f_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d7/dcc/class_sentience_1_1_sentience_app_aea483e995c333e8d7f33fe3863536e2f_aea483e995c333e8d7f33fe3863536e2f_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d7/dcc/class_sentience_1_1_sentience_app_aea483e995c333e8d7f33fe3863536e2f_aea483e995c333e8d7f33fe3863536e2f_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d7/dcc/class_sentience_1_1_sentience_app_a5d41c15063d38b851c6e34cb6f4b704a_a5d41c15063d38b851c6e34cb6f4b704a_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d7/dcc/class_sentience_1_1_sentience_app_a5d41c15063d38b851c6e34cb6f4b704a_a5d41c15063d38b851c6e34cb6f4b704a_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/db/da8/class_sentience_1_1_sentience_screen__inherit__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/db/da8/class_sentience_1_1_sentience_screen__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/db/da8/class_sentience_1_1_sentience_screen__inherit__graph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/db/da8/class_sentience_1_1_sentience_screen__inherit__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a8bac7c3b2d4cfb2b0717e423d7bf93de_a8bac7c3b2d4cfb2b0717e423d7bf93de_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a8bac7c3b2d4cfb2b0717e423d7bf93de_a8bac7c3b2d4cfb2b0717e423d7bf93de_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a8ed75c89de0352bff0fa3c9ca24d33ce_a8ed75c89de0352bff0fa3c9ca24d33ce_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a8ed75c89de0352bff0fa3c9ca24d33ce_a8ed75c89de0352bff0fa3c9ca24d33ce_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d6/d30/class_sentience_1_1_sentience_screen__coll__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d6/d30/class_sentience_1_1_sentience_screen__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a8bacRunning dot for graph 28/160
+Running dot for graph 29/160
+Running dot for graph 30/160
+Running dot for graph 31/160
+Running dot for graph 32/160
+Running dot for graph 33/160
+Running dot for graph 34/160
+Running dot for graph 35/160
+Running dot for graph 36/160
+Running dot for graph 37/160
+Running dot for graph 38/160
+Running dot for graph 39/160
+Running dot for graph 40/160
+Running dot for graph 41/160
+Running dot for graph 42/160
+Running dot for graph 43/160
+7c3b2d4cfb2b0717e423d7bf93de_a8bac7c3b2d4cfb2b0717e423d7bf93de_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a8bac7c3b2d4cfb2b0717e423d7bf93de_a8bac7c3b2d4cfb2b0717e423d7bf93de_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d6/d30/class_sentience_1_1_sentience_screen__coll__graph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d6/d30/class_sentience_1_1_sentience_screen__coll__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a8daa8e6d515e83b1e7a99081a6b3b072_a8daa8e6d515e83b1e7a99081a6b3b072_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a8daa8e6d515e83b1e7a99081a6b3b072_a8daa8e6d515e83b1e7a99081a6b3b072_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a8daa8e6d515e83b1e7a99081a6b3b072_a8daa8e6d515e83b1e7a99081a6b3b072_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a8daa8e6d515e83b1e7a99081a6b3b072_a8daa8e6d515e83b1e7a99081a6b3b072_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_aede465f55c7886d4789700a74e2f8d66_aede465f55c7886d4789700a74e2f8d66_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_aede465f55c7886d4789700a74e2f8d66_aede465f55c7886d4789700a74e2f8d66_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a3e04c614a4106ff8a082a9c44419c8ac_a3e04c614a4106ff8a082a9c44419c8ac_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a3e04c614a4106ff8a082a9c44419c8ac_a3e04c614a4106ff8a082a9c44419c8ac_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a3e04c614a4106ff8a082a9c44419c8ac_a3e04c614a4106ff8a082a9c44419c8ac_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a3e04c614a4106ff8a082a9c44419c8ac_a3e04c614a4106ff8a082a9c44419c8ac_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_ad6caae7f5134652a2a019feb73c6faed_ad6caae7f5134652a2a019feb73c6faed_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_ad6caae7f5134652a2a019feb73c6faed_ad6caae7f5134652a2a019feb73c6faed_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_ad6caae7f5134652a2a019feb73c6faed_ad6caae7f5134652a2a019feb73c6faed_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_ad6caae7f5134652a2a019feb73c6faed_ad6caae7f5134652a2a019feb73c6faed_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a2fa3cbb21656e7421622bd6d6ad6ccc9_a2fa3cbb21656e7421622bd6d6ad6ccc9_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a2fa3cbb21656e7421622bd6d6ad6ccc9_a2fa3cbb21656e7421622bd6d6ad6ccc9_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a2fa3cbb21656e7421622bd6d6ad6ccc9_a2fa3cbb21656e7421622bd6d6ad6ccc9_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a2fa3cbb21656e7421622bd6d6ad6ccc9_a2fa3cbb21656e7421622bd6d6ad6ccc9_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a26c7647bf1932c86588d6724176bc1d0_a26c7647bf1932c86588d6724176bc1d0_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a26c7647bf1932c86588d6724176bc1d0_a26c7647bf1932c86588d6724176bc1d0_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a5b6db3e3835eeee903bbdf47fbbfba38_a5b6db3e3835eeee903bbdf47fbbfba38_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a5b6db3e3835eeee903bbdf47fbbfba38_a5b6db3e3835eeee903bbdf47fbbfba38_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a0f42a443fa60d2be3e04e545baf29d73_a0f42a443fa60d2be3e04e545baf29d73_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a0f42a443fa60d2be3e04e545baf29d73_a0f42a443fa60d2be3e04e545baf29d73_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a5b6db3e3835eeee903bbdf47fbbfba38_a5b6db3e3835eeee903bbdf47fbbfba38_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a5b6db3e3835eeee903bbdf47fbbfba38_a5b6db3e3835eeee903bbdf47fbbfba38_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_ae28fe13af9dc96e4134932950c4094c2_ae28fe13af9dc96e4134932950c4094c2_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_ae28fe13af9dc96e4134932950c4094c2_ae28fe13af9dc96e4134932950c4094c2_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_af91902832a02b40f71dc6eaccb910ec2_af91902832a02b40f71dc6eaccb910ec2_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_af91902832a02b40f71dc6eaccb910ec2_af91902832a02b40f71dc6eaccb910ec2_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_af2f0c9064bdf3554d7a80e3bd5c22e94_af2f0c9064bdf3554d7a80e3bd5c22e94_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_af2f0c9064bdf3554d7a80e3bd5c22e94_af2f0c9064bdf3554d7a80e3bd5c22e94_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a8ba72f4c0557d4bc4da163136da14294_a8ba72f4c0557d4bc4da163136da14294_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a8ba72f4c0557d4bc4da163136da14294_a8ba72f4c0557d4bc4da163136da14294_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_af2f0c9064bdf3554d7a80e3bd5c22e94_af2f0c9064bdf3554d7a80e3bd5c22e94_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_af2f0c9064bdf3554d7a80e3bd5c22e94_af2f0c9064bdf3554d7a80e3bd5c22e94_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a94c05953e002148b44d988520ec36903_a94c05953e002148b44d988520ec36903_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a94c05953e002148b44d988520ec36903_a94c05953e002148b44d988520ec36903_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a94c05953e002148b44d988520ec36903_a94c05953e002148b44d988520ec36903_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a94c05953e002148b44d988520ec36903_a94c05953e002148b44d988520ec36903_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a20ce5ff0187da16216e1c469a6996d59_a20ce5ff0187da16216e1c469a6996d59_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a20ce5ff0187da16216e1c469a6996d59_a20ce5ff0187da16216e1c469a6996d59_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a20ce5ff0187da16216e1c469a6996d59_a20ce5ff0187da16216e1c469a6996d59_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a20ce5ff0187da16216e1c469a6996d59_a20ce5ff0187da16216e1c469a6996d59_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a930e9024e6a83fe6fc9f8ade1dc6618a_a930e9024e6a83fe6fc9f8ade1dc6618a_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a930e9024e6a83fe6fc9f8ade1dc6618a_a930e9024e6a83fe6fc9f8ade1dc6618a_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a930e9024e6a83fe6fc9f8ade1dc6618a_a930e9024e6a83fe6fc9f8ade1dc6618a_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a930e9024e6a83fe6fc9f8ade1dc6618a_a930e9024e6a83fe6fc9f8ade1dc6618a_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a73cb16da8bb65c9cdf22242749baf711_a73cb16da8bb65c9cdf22242749baf711_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a73cb16da8bb65c9cdf22242749baf711_a73cb16da8bb65c9cdf22242749baf711_cgraph.pdf"'
+error: Problems Running dot for graph 44/160
+Running dot for graph 45/160
+Running dot for graph 46/160
+Running dot for graph 47/160
+Running dot for graph 48/160
+Running dot for graph 49/160
+Running dot for graph 50/160
+Running dot for graph 51/160
+Running dot for graph 52/160
+Running dot for graph 53/160
+Running dot for graph 54/160
+Running dot for graph 55/160
+Running dot for graph 56/160
+Running dot for graph 57/160
+Running dot for graph 58/160
+Running dot for graph 59/160
+Running dot for graph 60/160
+Running dot for graph 61/160
+Running dot for graph 62/160
+Running dot for graph 63/160
+Running dot for graph 64/160
+running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a73cb16da8bb65c9cdf22242749baf711_a73cb16da8bb65c9cdf22242749baf711_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a73cb16da8bb65c9cdf22242749baf711_a73cb16da8bb65c9cdf22242749baf711_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a98c43869afa1b59cee48a1737b511901_a98c43869afa1b59cee48a1737b511901_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a98c43869afa1b59cee48a1737b511901_a98c43869afa1b59cee48a1737b511901_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a98c43869afa1b59cee48a1737b511901_a98c43869afa1b59cee48a1737b511901_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a98c43869afa1b59cee48a1737b511901_a98c43869afa1b59cee48a1737b511901_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_ade2b9f15c0813a84b504bccbecc55419_ade2b9f15c0813a84b504bccbecc55419_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_ade2b9f15c0813a84b504bccbecc55419_ade2b9f15c0813a84b504bccbecc55419_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a3c13a10c1840d5a78ec1eed7f7004343_a3c13a10c1840d5a78ec1eed7f7004343_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a3c13a10c1840d5a78ec1eed7f7004343_a3c13a10c1840d5a78ec1eed7f7004343_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a5611ce4b0b0dcae27e20e2b90a7c4329_a5611ce4b0b0dcae27e20e2b90a7c4329_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a5611ce4b0b0dcae27e20e2b90a7c4329_a5611ce4b0b0dcae27e20e2b90a7c4329_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a7150da461549f94549a48f1ae8fd1eef_a7150da461549f94549a48f1ae8fd1eef_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a7150da461549f94549a48f1ae8fd1eef_a7150da461549f94549a48f1ae8fd1eef_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a5611ce4b0b0dcae27e20e2b90a7c4329_a5611ce4b0b0dcae27e20e2b90a7c4329_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a5611ce4b0b0dcae27e20e2b90a7c4329_a5611ce4b0b0dcae27e20e2b90a7c4329_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a7150da461549f94549a48f1ae8fd1eef_a7150da461549f94549a48f1ae8fd1eef_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a7150da461549f94549a48f1ae8fd1eef_a7150da461549f94549a48f1ae8fd1eef_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a2c7f1a4f63d18cf11ff4dcbb1a744ea9_a2c7f1a4f63d18cf11ff4dcbb1a744ea9_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a2c7f1a4f63d18cf11ff4dcbb1a744ea9_a2c7f1a4f63d18cf11ff4dcbb1a744ea9_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a4f03982206002d4559ea227b69f33a84_a4f03982206002d4559ea227b69f33a84_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a4f03982206002d4559ea227b69f33a84_a4f03982206002d4559ea227b69f33a84_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_af8c3e04b256577e4bbde0bb76d9815c3_af8c3e04b256577e4bbde0bb76d9815c3_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_af8c3e04b256577e4bbde0bb76d9815c3_af8c3e04b256577e4bbde0bb76d9815c3_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a4f03982206002d4559ea227b69f33a84_a4f03982206002d4559ea227b69f33a84_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a4f03982206002d4559ea227b69f33a84_a4f03982206002d4559ea227b69f33a84_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a590ff516e70c7b3858b69d215bfaab27_a590ff516e70c7b3858b69d215bfaab27_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a590ff516e70c7b3858b69d215bfaab27_a590ff516e70c7b3858b69d215bfaab27_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a06c36f26e2d675cd9ff4a1a6ae51617a_a06c36f26e2d675cd9ff4a1a6ae51617a_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a06c36f26e2d675cd9ff4a1a6ae51617a_a06c36f26e2d675cd9ff4a1a6ae51617a_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_ad602b018f6865ba852770f9551cd3b32_ad602b018f6865ba852770f9551cd3b32_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_ad602b018f6865ba852770f9551cd3b32_ad602b018f6865ba852770f9551cd3b32_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_aca0c1b95cb48426ebbd72e7e78634538_aca0c1b95cb48426ebbd72e7e78634538_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_aca0c1b95cb48426ebbd72e7e78634538_aca0c1b95cb48426ebbd72e7e78634538_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a06c36f26e2d675cd9ff4a1a6ae51617a_a06c36f26e2d675cd9ff4a1a6ae51617a_icgraph.dot" -Tpdf -o "E:/Git Projects/PyRunning dot for graph 65/160
+Running dot for graph 66/160
+Running dot for graph 67/160
+Running dot for graph 68/160
+Running dot for graph 69/160
+Running dot for graph 70/160
+Running dot for graph 71/160
+Running dot for graph 72/160
+Running dot for graph 73/160
+Running dot for graph 74/160
+Running dot for graph 75/160
+Running dot for graph 76/160
+Running dot for graph 77/160
+Running dot for graph 78/160
+Running dot for graph 79/160
+Running dot for graph 80/160
+Running dot for graph 81/160
+Running dot for graph 82/160
+Running dot for graph 83/160
+thon/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a06c36f26e2d675cd9ff4a1a6ae51617a_a06c36f26e2d675cd9ff4a1a6ae51617a_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_abb9feda745a16d197d6a68ef98c33e81_abb9feda745a16d197d6a68ef98c33e81_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_abb9feda745a16d197d6a68ef98c33e81_abb9feda745a16d197d6a68ef98c33e81_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a253975efac953401001404ee47e66c05_a253975efac953401001404ee47e66c05_icgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a253975efac953401001404ee47e66c05_a253975efac953401001404ee47e66c05_icgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_aed7167d0f54e667afb003c07d5000899_aed7167d0f54e667afb003c07d5000899_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_aed7167d0f54e667afb003c07d5000899_aed7167d0f54e667afb003c07d5000899_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a2e57e1172e56904cbae326f50cb33906_a2e57e1172e56904cbae326f50cb33906_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a2e57e1172e56904cbae326f50cb33906_a2e57e1172e56904cbae326f50cb33906_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a3157c2ad2de5361a22f1416a3b2b2b7f_a3157c2ad2de5361a22f1416a3b2b2b7f_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_a3157c2ad2de5361a22f1416a3b2b2b7f_a3157c2ad2de5361a22f1416a3b2b2b7f_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a8ed75c89de0352bff0fa3c9ca24d33ce_a8ed75c89de0352bff0fa3c9ca24d33ce_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a8ed75c89de0352bff0fa3c9ca24d33ce_a8ed75c89de0352bff0fa3c9ca24d33ce_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_aa16e6c6d7f112cb5dde36e14fade92f9_aa16e6c6d7f112cb5dde36e14fade92f9_cgraph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d1/dad/class_sentience_1_1_sentience_screen_aa16e6c6d7f112cb5dde36e14fade92f9_aa16e6c6d7f112cb5dde36e14fade92f9_cgraph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a8bac7c3b2d4cfb2b0717e423d7bf93de_a8bac7c3b2d4cfb2b0717e423d7bf93de_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a8bac7c3b2d4cfb2b0717e423d7bf93de_a8bac7c3b2d4cfb2b0717e423d7bf93de_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a8bac7c3b2d4cfb2b0717e423d7bf93de_a8bac7c3b2d4cfb2b0717e423d7bf93de_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a8bac7c3b2d4cfb2b0717e423d7bf93de_a8bac7c3b2d4cfb2b0717e423d7bf93de_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a8daa8e6d515e83b1e7a99081a6b3b072_a8daa8e6d515e83b1e7a99081a6b3b072_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a8daa8e6d515e83b1e7a99081a6b3b072_a8daa8e6d515e83b1e7a99081a6b3b072_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a8daa8e6d515e83b1e7a99081a6b3b072_a8daa8e6d515e83b1e7a99081a6b3b072_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a8daa8e6d515e83b1e7a99081a6b3b072_a8daa8e6d515e83b1e7a99081a6b3b072_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a3e04c614a4106ff8a082a9c44419c8ac_a3e04c614a4106ff8a082a9c44419c8ac_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a3e04c614a4106ff8a082a9c44419c8ac_a3e04c614a4106ff8a082a9c44419c8ac_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a3e04c614a4106ff8a082a9c44419c8ac_a3e04c614a4106ff8a082a9c44419c8ac_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a3e04c614a4106ff8a082a9c44419c8ac_a3e04c614a4106ff8a082a9c44419c8ac_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_ad6caae7f5134652a2a019feb73c6faed_ad6caae7f5134652a2a019feb73c6faed_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_ad6caae7f5134652a2a019feb73c6faed_ad6caae7f5134652a2a019feb73c6faed_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_ad6caae7f5134652a2a019feb73c6faed_ad6caae7f5134652a2a019feb73c6faed_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_ad6caae7f5134652a2a019feb73c6faed_ad6caae7f5134652a2a019feb73c6faed_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_aede465f55c7886d4789700a74e2f8d66_aede465f55c7886d4789700a74e2f8d66_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_aede465f55c7886d4789700a74e2f8d66_aede465f55c7886d4789700a74e2f8d66_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a2fa3cbb21656e7421622bd6d6ad6ccc9_a2fa3cbb21656e7421622bd6d6ad6ccc9_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a2fa3cbb21656e7421622bd6d6ad6ccc9_a2fa3cbb21656e7421622bd6d6ad6ccc9_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a5b6db3e3835eeee903bbdf47fbbfba38_a5b6db3e3835eeee903bbdf47fbbfba38_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a5b6db3e3835eeee903bbdf47fbbfba38_a5b6db3e3835eeee903bbdf47fbbfba38_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a2fa3cbb21656e7421622bd6d6ad6ccc9_a2fa3cbb21656e7421622bd6d6ad6ccc9_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a2fa3cbb21656e7421622bd6d6ad6ccc9_a2fa3cbb21656e7421622bd6d6ad6ccc9_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a26c7647bf1932c86588d6724176bc1d0_a26c7647bf1932c86588d6724176bc1d0_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a26c7647bf1932c86588d6724176bc1d0_a26c7647bf1932c86588d6724176bc1d0_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a0f42a443fa60d2be3e04e545baf29d73_a0f42a443fa60d2be3e04e545baf29d73_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a0f42a443fa60d2be3e04e545baf29d73_a0f42a443fa60d2be3e04e545baf29d73_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a5b6db3e3835eeee903bbdf47fbbfba38_a5b6db3e3835eeee903bbdf47fbbfba38_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a5b6db3e3835eeee903bbdf47fbbfba38_a5b6db3e3835eeee903bbdf47fbbfba38_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_af91902832a02b40f71dc6eaccb910ec2_af91902832a02b40f71dc6eaccb910ec2_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_af91902832a02b40f71dc6eaccb910ec2_af91902832a02b40f71dc6eaccb910ec2_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_ae28fe13af9dc96e4134932950c4094c2_ae28fe13af9dc96e4134932950c4094c2_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_ae28fe13af9dc96e4134932950c4094c2_ae28fe13af9dc96e4134932950c4094c2_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_af2f0c9064bdf3554d7a80e3bd5c22e94_af2f0c9064bdf3554d7a80e3bd5c22e94_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_af2f0c9064bdf3554d7a80e3bd5c22e94_af2f0c9064bdf3554d7a80e3bd5c22e94_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a94c05953e002148b44d988520ec36903_a94c05953e002148b44d988520ec36903_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a94c05953e002148b44d988520ec36903_a94c05953e002148b44d988520ec36903_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_af2f0c9064bdf3554d7a80e3bd5c22e94_af2f0c9064bdf3554d7a80e3bd5c22e94_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_af2f0c9064bdf3554d7a80e3bd5c22e94_af2f0c9064bdf3554d7a80e3bd5c22e94_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a8ba72f4c0557d4bc4da163136da14294_a8ba72f4c0557d4bc4da163136da14294_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a8ba72f4c0557d4bc4da163136da14294_a8ba72f4c0557d4bc4da163136da14294_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a20ce5ff0187da16216e1c469a6996d59_a20ce5ff0187da16216e1c469a6996d59_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a20ce5ff0187da16216e1c469a6996d59_a20ce5ff0187da16216e1c469a6996d59_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a94c05953e002148b44d988520ec36903_a94c05953e002148b44d988520ec36903_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a94c05953e002148b44d988520ec36903_a94c05953e002148b44d988520ec36903_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a20ce5ff0187da16216e1c469a6996d59_a20ce5ff0187da16216e1c469a6996d59_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a20ce5ff0187da16216e1c469a6996d59_a20ce5ff0187da16216e1c469a6996d59_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a930e9024e6a83fe6fc9f8ade1dc6618a_a930e9024e6a83fe6fc9f8ade1dc6618a_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a930e9024e6a83fe6fc9f8ade1dc6618a_a930e9024e6a83fe6fc9f8ade1dc6618a_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a930e9024e6a83fe6fc9f8ade1dc6618a_a930e9024e6a83fe6fc9f8ade1dc6618a_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a930e9024e6a83fe6fc9f8ade1dc6618a_a930e9024e6a83fe6fc9f8ade1dc6618a_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a73cb16da8bb65c9cdf22242749baf711_a73cb16da8bb65c9cdf22242749baf711_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a73cb16da8bb65c9cdf22242749baf711_a73cb16da8bb65c9cdf22242749baf711_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a73cb16da8bb65c9cdf22242749baf711_a73cb16da8bb65c9cdf22242749baf711_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a73cb16da8bb65c9cdf22242749baf711_a73cb16da8bb65c9cdf22242749baf711_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a98c43869afa1b59cee48a1737b511901_a98c43869afa1b59cee48a1737b511901_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a98c43869afa1b59cee48a1737b511901_a98c43869afa1b59cee48a1737b511901_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a98c43869afa1b59cee48a1737b511901_a98c43869afa1b59cee48a1737b511901_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a98c43869afa1b59cee48a1737b511901_a98c43869afa1b59cee48a1737b511901_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a7150da461549f94549a48f1ae8fd1eef_a7150da461549f94549a48f1ae8fd1eef_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a7150da461549f94549a48f1ae8fd1eef_a7150da461549f94549a48f1ae8fd1eef_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a5611ce4b0b0dcae27e20e2b90a7c4329_a5611ce4b0b0dcae27e20e2b90a7c4329_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a5611ce4b0b0dcae27e20e2b90a7c4329_a5611ce4b0b0dcae27e20e2b90a7c4329_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a5611ce4b0b0dcae27e20e2b90a7c4329_a5611ce4b0b0dcae27e20e2b90a7c4329_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a5611ce4b0b0dcae27e20e2b90a7c4329_a5611ce4b0b0dcae27e20e2b90a7c4329_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a3c13a10c1840d5a78ec1eed7f7004343_a3c13a10c1840d5a78ec1eed7f7004343_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a3c13a10c1840d5a78ec1eed7f7004343_a3c13a10c1840d5a78ec1eed7f7004343_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_ade2b9f15c0813a84b504bccbecc55419_ade2b9f15c0813a84b504bccbecc55419_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_ade2b9f15c0813a84b504bccbecc55419_ade2b9f15c0813a84b504bccbecc55419_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a7150da461549f94549a48f1ae8fd1eef_a7150da461549f94549a48f1ae8fd1eef_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a7150da461549f94549a48f1ae8fd1eef_a7150da461549f94549a48f1ae8fd1eef_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a2c7f1a4f63d18cf11ff4dcbb1a744ea9_a2c7f1a4f63d18cf11ff4dcbb1a744ea9_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a2c7f1a4f63d18cf11ff4dcbb1a744ea9_a2c7f1a4f63d18cf11ff4dcbb1a744ea9_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_af8c3e04b256577e4bbde0bb76d9815c3_af8c3e04b256577e4bbde0bb76d9815c3_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_af8c3e04b256577e4bbde0bb76d9815c3_af8c3e04b256577e4bbde0bb76d9815c3_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a590ff516e70c7b3858b69d215bfaab27_a590ff516e70c7b3858b69d215bfaab27_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a590ff516e70c7b3858b69d215bfaab27_a590ff516e70c7b3858b69d215bfaab27_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a4f03982206002d4559ea227b69f33a84_a4f03982206002d4559ea227b69f33a84_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a4f03982206002d4559ea227b69f33a84_a4f03982206002d4559ea227b69f33a84_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a06c36f26e2d675cd9ff4a1a6ae51617a_a06c36f26e2d675cd9ff4a1a6ae51617a_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a06c36f26e2d675cd9ff4a1a6ae51617a_a06c36f26e2d675cd9ff4a1a6ae51617a_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_aca0c1b95cb48426ebbd72e7e78634538_aca0c1b95cb48426ebbd72e7e78634538_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_aca0c1b95cb48426ebbd72e7e78634538_aca0c1b95cb48426ebbd72e7e78634538_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_ad602b018f6865ba852770f9551cd3b32_ad602b018f6865ba852770f9551cd3b32_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_ad602b018f6865ba852770f9551cd3b32_ad602b018f6865ba852770f9551cd3b32_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a06c36f26e2d675cd9ff4a1a6ae51617a_a06c36f26e2d675cd9ff4a1a6ae51617a_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a06c36f26e2d675cd9ff4a1a6ae51617a_a06c36f26e2d675cd9ff4a1a6ae51617a_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a4f03982206002d4559ea227b69f33a84_a4f03982206002d4559ea227b69f33a84_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a4f03982206002d4559ea227b69f33a84_a4f03982206002d4559ea227b69f33a84_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a2e57e1172e56904cbae326f50cb33906_a2e57e1172e56904cbae326f50cb33906_cgraph.dot" -Tpng -Running dot for graph 84/160
+Running dot for graph 85/160
+Running dot for graph 86/160
+Running dot for graph 87/160
+Running dot for graph 88/160
+Running dot for graph 89/160
+Running dot for graph 90/160
+Running dot for graph 91/160
+Running dot for graph 92/160
+Running dot for graph 93/160
+Running dot for graph 94/160
+Running dot for graph 95/160
+Running dot for graph 96/160
+Running dot for graph 97/160
+Running dot for graph 98/160
+Running dot for graph 99/160
+Running dot for graph 100/160
+Running dot for graph 101/160
+Running dot for graph 102/160
+Running dot for graph 103/160
+Running dot for graph 104/160
+Running dot for graph 105/160
+Running dot for graph 106/160
+Running dot for graph 107/160
+Running dot for graph 108/160
+Running dot for graph 109/160
+Running dot for graph 110/160
+Running dot for graph 111/160
+Running dot for graph 112/160
+Running dot for graph 113/160
+Running dot for graph 114/160
+Running dot for graph 115/160
+Running dot for graph 116/160
+Running dot for graph 117/160
+Running dot for graph 118/160
+Running dot for graph 119/160
+Running dot for graph 120/160
+Running dot for graph 121/160
+Running dot for graph 122/160
+Running dot for graph 123/160
+Running dot for graph 124/160
+Running dot for graph 125/160
+Running dot for graph 126/160
+Running dot for graph 127/160
+Running dot for graph 128/160
+Running dot for graph 129/160
+Running dot for graph 130/160
+Running dot for graph 131/160
+Running dot for graph 132/160
+Running dot for graph 133/160
+Running dot for graph 134/160
+Running dot for graph 135/160
+Running dot for graph 136/160
+o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a2e57e1172e56904cbae326f50cb33906_a2e57e1172e56904cbae326f50cb33906_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_abb9feda745a16d197d6a68ef98c33e81_abb9feda745a16d197d6a68ef98c33e81_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_abb9feda745a16d197d6a68ef98c33e81_abb9feda745a16d197d6a68ef98c33e81_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a253975efac953401001404ee47e66c05_a253975efac953401001404ee47e66c05_icgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a253975efac953401001404ee47e66c05_a253975efac953401001404ee47e66c05_icgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/da/d27/class_sentience_1_1sentience_screen_manager__inherit__graph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/da/d27/class_sentience_1_1sentience_screen_manager__inherit__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a3157c2ad2de5361a22f1416a3b2b2b7f_a3157c2ad2de5361a22f1416a3b2b2b7f_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_a3157c2ad2de5361a22f1416a3b2b2b7f_a3157c2ad2de5361a22f1416a3b2b2b7f_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_aa16e6c6d7f112cb5dde36e14fade92f9_aa16e6c6d7f112cb5dde36e14fade92f9_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_aa16e6c6d7f112cb5dde36e14fade92f9_aa16e6c6d7f112cb5dde36e14fade92f9_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_aed7167d0f54e667afb003c07d5000899_aed7167d0f54e667afb003c07d5000899_cgraph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d1/dad/class_sentience_1_1_sentience_screen_aed7167d0f54e667afb003c07d5000899_aed7167d0f54e667afb003c07d5000899_cgraph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/da/d27/class_sentience_1_1sentience_screen_manager__inherit__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/da/d27/class_sentience_1_1sentience_screen_manager__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d2/d48/class_sentience_1_1sentience_screen_manager__coll__graph.dot" -Tpdf -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/latex/d2/d48/class_sentience_1_1sentience_screen_manager__coll__graph.pdf"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d2/d48/class_sentience_1_1sentience_screen_manager__coll__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/d2/d48/class_sentience_1_1sentience_screen_manager__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/graph_legend.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/graph_legend.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/inherit_graph_1.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/inherit_graph_1.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/inherit_graph_0.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/inherit_graph_0.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/inherit_graph_2.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/inherit_graph_2.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/inherit_graph_3.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/inherit_graph_3.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/inherit_graph_4.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/inherit_graph_4.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/db/d19/class_sentience_1_1_action_input__inherit__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/db/d19/class_sentience_1_1_action_input__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/dd/d62/class_sentience_1_1_action_input__coll__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/dd/d62/class_sentience_1_1_action_input__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d3/ddc/class_sentience_1_1_delete_dialog__coll__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d3/ddc/class_sentience_1_1_delete_dialog__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/dc/d7b/class_sentience_1_1_print_dialog__inherit__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/dc/d7b/class_sentience_1_1_print_dialog__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d7/d25/class_sentience_1_1_delete_dialog__inherit__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d7/d25/class_sentience_1_1_delete_dialog__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d4/dc3/class_sentience_1_1_print_dialog__coll__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d4/dc3/class_sentience_1_1_print_dialog__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d6/d8e/class_sentience_1_1_sentience_app__coll__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d6/d8e/class_sentience_1_1_sentience_app__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/db/da8/class_sentience_1_1_sentience_screen__inherit__graph.dot" -Tpng -o "E:/Git Projects/Python/HonorRunning dot for graph 137/160
+Running dot for graph 138/160
+Running dot for graph 139/160
+Running dot for graph 140/160
+Running dot for graph 141/160
+Running dot for graph 142/160
+Running dot for graph 143/160
+Running dot for graph 144/160
+Running dot for graph 145/160
+Running dot for graph 146/160
+Running dot for graph 147/160
+Running dot for graph 148/160
+Running dot for graph 149/160
+Running dot for graph 150/160
+Running dot for graph 151/160
+Running dot for graph 152/160
+Running dot for graph 153/160
+Running dot for graph 154/160
+Running dot for graph 155/160
+Running dot for graph 156/160
+Running dot for graph 157/160
+Running dot for graph 158/160
+Running dot for graph 159/160
+Running dot for graph 160/160
+Patching output file 1/54
+Patching output file 2/54
+lookup cache used 153/65536 hits=750 misses=157
+finished...
+s_Project_Sentience/Documentation/Documentation/db/da8/class_sentience_1_1_sentience_screen__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d1/d06/class_sentience_1_1_sentience_app__inherit__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d1/d06/class_sentience_1_1_sentience_app__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d6/d30/class_sentience_1_1_sentience_screen__coll__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d6/d30/class_sentience_1_1_sentience_screen__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d2/d67/_sentience_8py__incl.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d2/d67/_sentience_8py__incl.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/da/d27/class_sentience_1_1sentience_screen_manager__inherit__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/da/d27/class_sentience_1_1sentience_screen_manager__inherit__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d2/d48/class_sentience_1_1sentience_screen_manager__coll__graph.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d2/d48/class_sentience_1_1sentience_screen_manager__coll__graph.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d7/d37/_sentience_8py__dep__incl.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d7/d37/_sentience_8py__dep__incl.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d8/dd7/_settings_menu_8py__incl.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/d8/dd7/_settings_menu_8py__incl.png"'
+error: Problems running dot: exit code=-1, command='dot', arguments='"E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/dc/d25/_settings_menu_8py__dep__incl.dot" -Tpng -o "E:/Git Projects/Python/Honors_Project_Sentience/Documentation/Documentation/dc/d25/_settings_menu_8py__dep__incl.png"'
+error: problems opening map file E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/db/d19/class_sentience_1_1_action_input__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file E:/Git Projects/Python/Honors_Project_Sentience/Documentation/html/dd/d62/class_sentience_1_1_action_input__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problem writing FIG 0 figure!
+*** Doxygen has finished
