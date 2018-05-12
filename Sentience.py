@@ -32,7 +32,7 @@ from SettingsMenu import my_settings
 
 __author__ = 'Aaron Johnson'
 __copyright__ = 'Copyright (c) 2018 Copyright Holder All Rights Reserved.'
-__license__ = 'MIT'
+__license__ = 'GPL'
 __version__ = '2.1'
 __maintainer__ = 'Aaron Johnson'
 __email__ = 'Aaronjohnson@protonmail.ch'
